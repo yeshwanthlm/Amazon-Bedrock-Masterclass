@@ -41,14 +41,16 @@ Requirements:
 
 GitHub Repository: https://github.com/yeshwanthlm/Amazon-Bedrock-Masterclass
 YouTube Playlist: https://www.youtube.com/playlist?list=PLjl2dJMjkDjltA4sJru2_mdEz2DrBJH-I
+Section 0 Slide Deck: [Section 0 Slide Deck.pdf](https://github.com/user-attachments/files/20813302/What.is.this.course.about.pdf)
+
 
 Follow us:
-YouTube: https://www.youtube.com/@amonkincloud/videos
-Follow our GitHub here: https://github.com/yeshwanthlm
-Follow our blog here: https://blogs.yeshwanthlm.in
-Follow my personal blog here:https://dev.to/yeshwanthlm/
-Follow us on Instagram: https://www.instagram.com/amonkincloud/
-Follow us on LinkedIn: https://www.linkedin.com/company/amonkincloud/
-Book 1:1 Meeting with me: https://topmate.io/a_monk_in_cloud
-Support my work by buying a book: https://www.buymeacoffee.com/amonkincloud
-Social Media: https://linktr.ee/amonkincloud
+* YouTube: https://www.youtube.com/@amonkincloud/videos
+* Follow our GitHub here: https://github.com/yeshwanthlm
+* Follow our blog here: https://blogs.yeshwanthlm.in
+* Follow my personal blog here:https://dev.to/yeshwanthlm/
+* Follow us on Instagram: https://www.instagram.com/amonkincloud/
+* Follow us on LinkedIn: https://www.linkedin.com/company/amonkincloud/
+* Book 1:1 Meeting with me: https://topmate.io/a_monk_in_cloud
+* Support my work by buying a book: https://www.buymeacoffee.com/amonkincloud
+* Social Media: https://linktr.ee/amonkincloud
