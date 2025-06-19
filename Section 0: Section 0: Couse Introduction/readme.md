@@ -39,9 +39,10 @@ Requirements:
 * Basic understanding of AWS services and infrastructure is recommended, including familiarity with services like EC2, S3, Lambda, IAM, and VPC.
 * Basic programming knowledge - Python
 
-GitHub Repository: https://github.com/yeshwanthlm/Amazon-Bedrock-Masterclass
-YouTube Playlist: https://www.youtube.com/playlist?list=PLjl2dJMjkDjltA4sJru2_mdEz2DrBJH-I
-Section 0 Slide Deck: [Section 0 Slide Deck.pdf](https://github.com/user-attachments/files/20813302/What.is.this.course.about.pdf)
+Resources:
+* GitHub Repository: https://github.com/yeshwanthlm/Amazon-Bedrock-Masterclass
+* YouTube Playlist: https://www.youtube.com/playlist?list=PLjl2dJMjkDjltA4sJru2_mdEz2DrBJH-I
+* Section 0 Slide Deck: [Section 0 Slide Deck.pdf](https://github.com/user-attachments/files/20813302/What.is.this.course.about.pdf)
 
 
 Follow us:
