@@ -1,4 +1,5 @@
-import pprintAdd commentMore actions
+import boto3
+import pprint
 
 bedrock = boto3.client(
     service_name='bedrock',
